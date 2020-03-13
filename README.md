@@ -1,2 +1,1 @@
-# test_project
-学习code
+学习git 基础
